@@ -1,5 +1,11 @@
-CNN on Built-in Keras DatasetCNN on Built-in Keras Dataset
+1.CNN on Built-in Keras DatasetCNN on Built-in Keras Dataset
 
 a. CNN on Built-in keras MNIST dataset
 b. CNN on Built-in keras CIFAR10 dataset
 c. CNN on Built-in keras FASHION_MNIST dataset
+
+2.CNN on Custom Image DatasetCNN on Custom Image Dataset
+
+Used the following dataset to classify cell images as either parasitized or uninfected using CNN:
+
+https://www.kaggle.com/brsdincer/cell-images-parasitized-or-not
